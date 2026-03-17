@@ -22,3 +22,25 @@ Follow the instructions in this and next lessons to implement the page block by 
 # Tips & Hints
 - Check `background-image: url()` to be relative to the `main.scss`. So should start with `../images`.
 - If some points from the checklist are not relevant to your design, just skip it.
+
+
+🚲 MyBIKE - Landing Page
+Esta é uma landing page moderna e responsiva para uma marca de bicicletas premium, focada em performance e design minimalista. O projeto foi desenvolvido seguindo fielmente o protótipo do Figma, garantindo fidelidade visual e uma experiência de usuário fluida.
+
+🚀 Tecnologias Utilizadas
+HTML5 & CSS3 (Semântica e estilização avançada)
+
+Flexbox/Grid (Para o layout responsivo mostrado no protótipo)
+
+Mobile First (Metodologia de desenvolvimento)
+
+Inserir aqui: React, Tailwind ou SASS (se você for usar)
+
+🛠️ Funcionalidades e Diferenciais
+Design Responsivo: Adaptado para telas de 1280px, 744px e 320px.
+
+Componentes Reutilizáveis: Botões, inputs e ícones padronizados conforme o Design System do projeto.
+
+Menu Hamburguer: Navegação otimizada para dispositivos móveis.
+
+Dark Mode Nativo: Estética premium com alto contraste e legibilidade.
